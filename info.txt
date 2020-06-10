@@ -6,7 +6,7 @@ echo 'PATH=$HOME/.local/bin:$PATH' >> ~/.bashrc
 ansible --version
 #sudo apt install ansible
 #sudo apt install ansible-lint
-cd /mnt/c/IdeaProjects/
+cd /mnt/e/IdeaProjects
 mkdir ansible_test
 cd ansible_test/
 
